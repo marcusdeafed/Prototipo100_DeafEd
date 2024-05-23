@@ -333,10 +333,11 @@
     float: right;
   }
   .img_preparatorio{
-    width: 600px;
     margin-right: 0;
     margin-top: 50px;
-    float: right;
+     width: 100px;
+    height: 100px;
+    display: inline-block;
   }
   .img_outros{
     width: 500px;
